@@ -43,7 +43,7 @@ namespace MySnake.SnakeGame
 
         public void InitNewSnake()
         {
-            Snake = new Snake(8, 8);
+            Snake = new Snake(9, 9);
         }
 
         public void StartNewGame()
